@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on 余夫俗子</title>
+        <link>//localhost:62537/categories/</link>
+        <description>Recent content in Categories on 余夫俗子</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:62537/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>工具库</title>
+        <link>//localhost:62537/categories/%E5%B7%A5%E5%85%B7%E5%BA%93/</link>
+        <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:62537/categories/%E5%B7%A5%E5%85%B7%E5%BA%93/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Syntax</title>
+        <link>//localhost:62537/categories/syntax/</link>
+        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:62537/categories/syntax/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>//localhost:62537/categories/themes/</link>
+        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:62537/categories/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Example Category</title>
+        <link>//localhost:62537/categories/example-category/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:62537/categories/example-category/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
